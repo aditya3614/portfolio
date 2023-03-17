@@ -1,0 +1,52 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.linkedin.com/company/kodeflip-software-solutions/",
+      "company": "Kodeflip Software Solutions",
+      "title": "Front-end development Intern",
+      "dateFrom": "feb 2022",
+      "dateTo": "may 2022",
+      "info": [
+        "Responsible for web team front-end development and design",
+        "created front end part of various enterprise applications"
+      ],
+      "stack": ["React.js", "Bootstrap", "Material UI", "MongoDB"],
+      "logoheight": 70,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #ffff)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #ffff)"
+    },
+    {
+      "id": 1,
+      "link": "https://www.prepmonkey.org/",
+      "company": "PrepMonkey",
+      "title": "Tech Intern",
+      "dateFrom": "december 2022",
+      "dateTo": "march 2023",
+      "info": [
+        "Miantained and developed their edtech softwares"
+        
+      ],
+      "stack": ["Wordpress", "UI/UX", "ReactJS", "Bootstrap"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://www.podworld.in/",
+      "company": "PodWorld.in",
+      "title": "Front end developer itern",
+      "dateFrom": "Present",
+      "dateTo": "",
+      "info": [
+        "Working on the front end part of their products and website",
+        ""
+      ],
+      "stack": ["ReactJs", "NextJS", "MaterialUI", "UI/UX"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #ffff, #ffff)"
+    }
+  ]
+}

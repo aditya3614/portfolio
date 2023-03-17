@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "React.js",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "Javascript",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "Bootstrap",
+      "amount": "85"
+    },
+    { "id": 3, "skillName": "Java", "amount": "80" },
+    {
+      "id": 4,
+      "skillName": "C/C++",
+      "amount": "75"
+    },
+    {
+      "id": 5,
+      "skillName": "NodeJS",
+      "amount": "70"
+    },
+    { "id": 6, "skillName": "SCSS", "amount": "65" },
+    { "id": 7, "skillName": "TailwindCSS", "amount": "60" },
+    {
+      "id": 8,
+      "skillName": "Backend",
+      "amount": "55"
+    }
+  ]
+}
